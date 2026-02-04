@@ -15,6 +15,9 @@ Right now, I’m **learning Node.js and backend development** to become a more c
 - Backend fundamentals
 - How servers, APIs, and databases work together
 
+  ## 🏆GitHub Trophies
+<img src="https://github-trophies.vercel.app/?username=HabibaBinteAmir&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=12" style="width:100%;" />
+
 ## My goal
 To build real-world projects, improve my problem-solving skills, and grow as a developer through consistent learning and practice.
 
