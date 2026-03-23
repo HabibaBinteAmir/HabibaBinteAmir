@@ -26,9 +26,7 @@ Right now, I’m **learning Node.js and backend development** to become a more c
       <td>
         <img src="https://github-readme-stats-fast.vercel.app/api?username=HabibabinteAmir&show_icons=true&theme=radical" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=HabibabinteAmir&theme=radical" alt="GitHub Streak" />
-      </td>
+      
     </tr>
   </table>
 </p>
